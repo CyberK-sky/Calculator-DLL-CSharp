@@ -1,0 +1,7 @@
+calc.Power => توان argument: (1). number(double)  (2). power(int)
+calc.Power => رادیکل argument: (1). number(double) (2). Type(RadicalType)
+RadicalType => ریشه های رادیکل : SquareRoot = 2, CubeRoot = 3, FourthRoot = 4, FifthRoot = 5
+calc.add => جمع argument: (1). number1(double) (2). number2(double)
+calc.divide => تقسیم ,,	,,	,,	,,	,,	,,	,,
+calc.multiply => ضرب ,, ,, 	,,	,,	,,	,,	,,
+calc.subtract => منها ,,	,,	,,	,,	,,	,,	,,
