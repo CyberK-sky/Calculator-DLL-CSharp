@@ -1,7 +1,7 @@
 # Calculator-DLL-CSharp
 Its is a persian version of a simple DLL of C# about calculator.
 
----------------------------------------------------------------------------------------------------
+---
 
 1. برای نصب کتابخانه با [عکس ها](/Pics) به ترتیب مراحل نصب رو پیش بروید داخل پوشه
 2. برای استفاده از کد های تست محتوات [فایل](test_code.txt) را داخل پروژه بریزید   
@@ -17,3 +17,8 @@ Its is a persian version of a simple DLL of C# about calculator.
 ![Installing Files](Pics/intall-guid.png)
 
 
+---
+
+- [x] Math 2 inputs[x]
+- [ ] Math 3 and more inputs
+- [ ] Math Functions
