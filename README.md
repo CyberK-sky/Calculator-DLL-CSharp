@@ -8,6 +8,6 @@ Its is a persian vertion of a simple dll of C# about calculator.
 4. )برای توضیح توابع به این فایل مراجعه کنید   (manual.txt 
 باتشکر
 
-"" در صورت بروز مشکل و یا پیدا کردن باگ در کد در تلگرام ما را خبر کنید @Its_Ksky
+** در صورت بروز مشکل و یا پیدا کردن باگ در کد در تلگرام ما را خبر کنید @Its_Ksky
 
-Ksky
+                                                                                              Ksky
