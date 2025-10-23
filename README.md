@@ -19,6 +19,6 @@ Its is a persian version of a simple DLL of C# about calculator.
 
 ---
 
-- [x] Math 2 inputs[x]
+- [x] Math 2 inputs
 - [ ] Math 3 and more inputs
 - [ ] Math Functions
