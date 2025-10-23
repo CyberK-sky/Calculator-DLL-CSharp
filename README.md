@@ -1,5 +1,5 @@
 # Calculator-DLL-CSharp
-Its is a persian vertion of a simple dll of C# about calculator.
+Its is a persian version of a simple DLL of C# about calculator.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -16,4 +16,4 @@ Its is a persian vertion of a simple dll of C# about calculator.
 
 ![Installing Files](Pics/intall-guid.png)
 
-//
+
