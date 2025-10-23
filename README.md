@@ -12,3 +12,9 @@ Its is a persian vertion of a simple dll of C# about calculator.
 
 در صورت بروز مشکل و یا پیدا کردن باگ در کد در تلگرام ما را خبر کنید @Its_Ksky
 
+
+
+
+برای نصب فایل ها:
+
+![Installing Files](Pics/intall-guid.png)
